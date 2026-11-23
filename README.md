@@ -1,8 +1,5 @@
-# SimFed-FDSR-Net
-A Lightweight Similarity-Aware Federated Learning Framework for Liver Cancer Recurrence Prediction
+# DIPT-Net
 
-Article 'SimFed-FDSR-Net: A Federated Learning Model for Early Warning of Liver Cancer Rehabilitation Based on aLightweight Neural Network' code repository (to be organised and published upon paper acceptance)
+Article 'DIPT: Constrained Probability Transport for Global Knowledge Integration in Personalized Federated Learning' code repository (to be organised and published upon paper acceptance)
 
 
-For collaboration opportunities or further data requirements, 
-please contact the corresponding author or offical website: www.stredigital.com
